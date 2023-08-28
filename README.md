@@ -1,6 +1,6 @@
 ### Luri Shirosaki 👋
 
-<sub>*Analista de Dados - Goomer*</sub>
+<sub>*Business Analyst*</sub>
 
 <p align="center">
   <img src="https://github.com/lurishirosaki/banner/blob/main/analista%20de%20dados.png" >
@@ -13,7 +13,7 @@
 
 - 💻 **Background em: Python, Linguagem SQL, Estatistica Descritiva, Construção de Data Warehouse, ETL.**
 
-- 🧠 **Em aprendizado contínuo das minhas habilidades visando a carreira de Cientista de Dados.**
+- 🧠 **Em aprendizado contínuo das minhas habilidades analíticas.**
 
 - 💡 **Tenho paixão por resolver problemas e gerar insights para guiar estratégias.**
 
